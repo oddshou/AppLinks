@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lexin.overseas",
+    "sha256_cert_fingerprints":
+    ["4A:8B:4F:56:A9:53:B5:72:96:F8:69:C4:72:95:47:5D:AC:C3:67:5A:AB:3F:E7:BD:62:38:A6:E4:F3:70:6D:20"]
+  }
+}]
